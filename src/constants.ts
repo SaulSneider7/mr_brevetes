@@ -117,7 +117,7 @@ export const TESTIMONIALS: Testimonial[] = [
 ];
 
 export const SOCIAL_LINKS = {
-  whatsapp: 'https://wa.me/51900000000',
+  whatsapp: 'https://wa.me/51917794918',
   facebook: 'https://facebook.com/mrbrevetes',
   instagram: 'https://instagram.com/mrbrevetes',
   tiktok: 'https://tiktok.com/@mrbrevetes'
